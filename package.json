@@ -123,7 +123,7 @@
     "@nextcloud/cypress": "^1.0.0-beta.7",
     "@nextcloud/eslint-config": "^v8.3.0-beta.2",
     "@nextcloud/stylelint-config": "^2.4.0",
-    "@nextcloud/typings": "^1.8.0",
+    "@nextcloud/typings": "^1.9.0",
     "@nextcloud/webpack-vue-config": "^6.0.1",
     "@pinia/testing": "^0.1.2",
     "@simplewebauthn/types": "^9.0.1",
