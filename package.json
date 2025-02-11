@@ -107,7 +107,7 @@
     "vue-infinite-loading": "^2.4.5",
     "vue-localstorage": "^0.6.2",
     "vue-material-design-icons": "^5.0.0",
-    "vue-router": "^3.6.5",
+    "vue-router": "^4.4.0",
     "vuedraggable": "^2.24.3",
     "vuex": "^4.1.0",
     "vuex-router-sync": "^5.0.0",
